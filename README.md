@@ -52,7 +52,7 @@ The project implements a **Company Intelligence Agent** for **Delta Air Lines** 
 - Delivered a functional RAG system that:
   - Reliably surfaces relevant chunks for company, risk, ESG, and shareholder questions.
   - Provides transparent, cited LLM answers via a user-friendly dashboard.
-- Identified key limitations around OCR quality, manual KPI extraction, chunking strategy, and API call limits, with recommendations for future improvements (better extraction methods, alternative chunking, and a more flexible LLM API). :contentReference[oaicite:8]{index=8}  
+- Identified key limitations around OCR quality, manual KPI extraction, chunking strategy, and API call limits, with recommendations for future improvements (better extraction methods, alternative chunking, and a more flexible LLM API).
 <img width="1512" height="826" alt="Screenshot 2025-12-13 at 3 16 59 AM" src="https://github.com/user-attachments/assets/49439a38-6b30-43ce-99ce-82c2916e0015" />
 <img width="1512" height="826" alt="Screenshot 2025-12-13 at 3 17 30 AM" src="https://github.com/user-attachments/assets/fad6fb7a-e200-41fb-bf30-fae0abc75f9c" />
 
